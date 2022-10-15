@@ -18,5 +18,5 @@ At line 20 and 21 give usename and password for amanzon login
 >scrapeInfo.java
 Pass product Name to search 
 pass range for price
-4)
-Find The dependencies in POM.xml file
+
+4) Find The dependencies in POM.xml file
