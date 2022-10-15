@@ -2,7 +2,7 @@
 This is the project for amazon search result data scraping  Developed using JAVA, Selenium, TestNG, maven, POM
 
 
-# setup need to do before execution:
+setup need to do before execution:
 1)
 src/test/java/PageObject
 > scrapePageObject.java
